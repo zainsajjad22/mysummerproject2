@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mysummerproject</string>
+    <string name="login" />
+    <string name="student_name" />
+    <string name="city_name" />
+    <string name="student_email" />
+</resources>

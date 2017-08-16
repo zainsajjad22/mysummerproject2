@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_text_size" />
+    <dimen name="city_text_size" />
+    <dimen name="email_text_size" />
+</resources>
